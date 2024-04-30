@@ -23,7 +23,7 @@ The Task Manager API is a RESTful web service built with Node.js and Express.js.
   npm start
   Usage
   API URL: https://server-wajt.onrender.com
-  Refer to the API Documentation for detailed information on endpoints and usage.
+  Refer to the API Documentation Link https://drive.google.com/file/d/1b0KYwJZ9VBRKWvT0p0JpYtFLbPJAAuL5/view?usp=sharing for detailed information on endpoints and usage.
 
 **Configuration**
   JWT_SECRET: Set your JWT secret key in the .env file or directly in the code (JWT_SECRET variable).
