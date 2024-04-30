@@ -22,7 +22,7 @@ The Task Manager API is a RESTful web service built with Node.js and Express.js.
   Copy code
   npm start
   Usage
-  API base URL: http://localhost:3000
+  API URL: https://server-wajt.onrender.com
   Refer to the API Documentation for detailed information on endpoints and usage.
 
 **Configuration**
